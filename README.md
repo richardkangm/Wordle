@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='[Imgur](https://imgur.com/K9zWZ8z)' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/AaOXmT5xWe.gif' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
